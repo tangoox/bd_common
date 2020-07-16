@@ -10,7 +10,7 @@
 
     <properties>
         <tk.mybatis.version>4.1.5</tk.mybatis.version>
-        <commons-beanutils.version>1.9.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
     </properties>
 
     <dependencies>
